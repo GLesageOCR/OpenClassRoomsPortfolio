@@ -68,18 +68,19 @@ Les données utilisées sont issues des [statistiques de la *Food and Agricultur
 ### &#127919; Objectifs
 Créer un rapport **Power BI** d'au moins 3 pages. Les données sources ont été prétraitées à l'aide de **Power Query**. Il fallait également créer un *blueprint* synthétisant les fontionnalités du rapport ainsi qu'un *mock-up* reprenant le visuel des futures pages en basse définition.
 
-## [Projet 7 : Analysez des indicateurs de l'égalité femme-homme avec Knime](./Analysez_des_indicateurs_de_l_égalité_femme-homme/)
+## Projet 7 : Créez un tableau de bord dynamique avec PowerBI pour visualiser l'avancement de projets
 
 ### Compétences acquises
-* Transférer des données vers une zone de préparation.
-* Collecter des données en respectant le RGPD.
-* Préparer des données pour l'analyse en respectant les normes internes à l’entreprise.
+* Créer un tableau de bord avec des propositions d’axe stratégique
+* Créer un product strategy canvas
+* Créer un rapport de méthodologie sur  les étapes de préparation des données .
 
 ### Scénario
-
+ Le Responsable du Project Management Office de Sanitoral a besoin d’un tableau de bord pour suivre l'avancement des projets, identifier les retards et contrôler les performances afin que l’équipe puisse mener les actions adéquates. 
 
 ### Objectifs
 
+* Créer un tableau de bord accessible a différents niveaux de résponsabilités dans l'entreprise (global, régional, local) , dynamique et permettant une identification rapide des projets ou zones a risques sur des critères de type délai et coût notamment. 
 
 ## Projet 6 : Optimisez la gestion & nettoyez les données du stock d'une boutique
 
