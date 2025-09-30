@@ -70,51 +70,64 @@ Créer un rapport **Power BI** d'au moins 3 pages. Les données sources ont ét�
 
 ## [Projet 7 : Analysez des indicateurs de l'égalité femme-homme avec Knime](./Analysez_des_indicateurs_de_l_égalité_femme-homme/)
 
-### &#127891; Compétences acquises
+### Compétences acquises
 * Transférer des données vers une zone de préparation.
 * Collecter des données en respectant le RGPD.
 * Préparer des données pour l'analyse en respectant les normes internes à l’entreprise.
 
-### &#128203; Scénario
+### Scénario
 
 
-### &#127919; Objectifs
+### Objectifs
 
 
-## [Projet 6 : Analyser les ventes d'une librairie avec Python](./Analysez_les_ventes_d_une_librairie/)
+## Projet 6 : Optimisez la gestion & nettoyez les données du stock d'une boutique
 
-### &#127891; Compétences acquises
-* Réaliser un test statistique.
-* Réaliser une analyse bivariée pour interpréter des données.
+### Compétences acquises
+* Créer un Notebook Python (Jupyter)
+* Nettoyer et consolider des données.
 * Analyser des séries temporelles.
+* Emetttre des recommandations pour la mise en place d'un ERP
 
-### &#128203; Scénario
+### Scénario
 
-### &#127919; Objectifs
-Obtenir un jeu de données exploitables à partir des fichiers source, puis réaliser une analyse complète : chiffres clés, KPI, graphiques, etc.. Nous réalisons également plusieurs tests statistiques afin de vérifier la corrélation entre différentes variables liées au profil des clients.
+En tant qu’analyste chez BottleNeck, un marchand de vin prestigieux qui a du mal à analyser ses données et qui rencontre des difficultés avec une gestion des stocks complexe le but est d'établir les relations entre les différents KPI et mettre en avant les produits phares.
 
-## [Projet 5 : Optimiser la gestion des données d'une boutique](./Optimisez_la_gestion_des_données_d_une_boutique_IKIJ_Ibrahim/)
+### Objectifs
 
-### &#127891; Compétences acquises
-* Gérer les erreurs et les incohérences présentes sur des données stockées.
-* Classifier différents types de données.
-* Réaliser une analyse univariée pour interpréter des données.
+Consolider les données et les rendre accessibles tout en corrigeant les erreurs puis les présenter dans un format adapté a des responsables produits et stocks pour dynamiser les ventes et améliorer la gestion du stock au quotidien.
 
-### &#128203; Scénario
-Dans le cadre de ce projet, nous sommes *Data Analyst freelance* en mission chez BottleNeck, un marchand de vin très prestigieux.
+## Projet 5 : Manipulez une base de données avec SQL pour suivre la satisfaction client
 
-### &#127919; Objectifs
-Obtenir un jeu de données cohérent et complet à partir des fichiers qui nous ont été fournis puis étudier les ventes de la boutique en ligne. Il faudra également réaliser une étude univariée sur les prix de ventes des produits.
+### Compétences acquises
+* Formuler l'expression des besoins 
+* Charger des données sur base de données
+* Rédiger un rapport sur la protection des données
+* Vérifier la cohérience de données
+  
 
-## [Projet 4 : Réaliser une étude de santé publique](./Etude_de_santé_publique/)
+### Scénario
+Dans le cadre de ce projet, je suis intervenu chez Best Market, un magasin de spécialisé dans la grande distribution dont les responsables souhaitaient revoir l'ensemble de leur base de données et avoir des recommandations sur les produits mis en vente.
 
-### &#127891; Compétences acquises
+### Objectifs
+ * Comprendre les points de satisfaction ou d’insatisfaction
+ * Repérer les produits ou services problématiques
+ * Suivre l’évolution de la perception client dans le temps
 
+## Projet 4 : Collectez des données en respectant les normes RGPD
 
-### &#128203; Scénario
+###  Compétences acquises
+ * Anonymisation de données
+ * Emettre des recommandations quand a la protection des données
+ * Transformer les données sur PowerQuery pour les adapter a une audience spécifique
 
+###  Scénario
+Un courtier en assurance, suite une intervention de la CNIL se retrouve impacté par une limitation temporaire des traitements. Le courtier doit s'assurer que les règles du RGPD sont parfaitement appliquées et intégrées dans ses processus avant de pouvoir demander la levée de cette sanction.
 
-### &#127919; Objectifs
+###  Objectifs
+ * Émettre des recommandations sur les règles de gestion à mettre en place immédiatement sur les données du CRM pour être conforme au RGPD
+ *  Mettre à disposition de l’équipe de performance commerciale une extraction des données du CRM anonymisé
+ *  Documenter dans un rapport toutes les étapes d'anonymisation
 
 
 ## Projet 3 : Requêtez une base de données avec SQL
