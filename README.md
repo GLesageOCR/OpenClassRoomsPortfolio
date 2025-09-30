@@ -117,36 +117,36 @@ Obtenir un jeu de données cohérent et complet à partir des fichiers qui nous 
 ### &#127919; Objectifs
 
 
-## [Projet 3 : Créez et utilisez une base de données immobilière avec SQL](./Créez_et_utilisez_une_base_de_données_immobilière/)
-### &#127891; Compétences acquises
-* Mettre à jour un catalogue de données.
-* Créer des tables dans une base de données.
-* Effectuer des requêtes SQL pour répondre à une problématique métier.
-* Créer le schéma d'une base de données.
-* Charger des données dans une base de données.
-
-### &#128203; Scénario
-Nous sommes *Data Analyst* chez Laplace Immo, un réseau national d’agences immobilières. Le directeur général est sensible depuis quelque temps à l’importance des données, et il pense que l’agence doit se démarquer de la concurrence en créant un modèle pour mieux prévoir le prix de vente des biens immobiliers. 
-
-### &#127919; Objectifs
-* Créer le dictionnaire des données et le schéma relationnel normalisé.
-* Modifier la base de données permettant de collecter les transactions immobilières et foncières en France, puis implémenter cette nouvelle base de données et enfin effectuer les requêtes SQL nécessaires aux analyses.
+## Projet 3 : Requêtez une base de données avec SQL
 
 
-## [Projet 2 : Analyse des départs client pour Primero Bank
-<img width="1530" height="175" alt="image" src="https://github.com/user-attachments/assets/339f6dcf-b0de-4d0d-88dd-a3da7a136bde" />
+### Compétences acquises
+* Créer un dictionnaire des données 
+* Etablir un schéma relationel
+* Creation de tables dans la base de données
+* Emettre des requêtes pour répondre aux problématiques du métier
+* Etablir une dossier de méthodologie d'analyses
 
-### &#127891; Compétences acquises
-* Mettre à jour un catalogue de données.
-* Créer des tables dans une base de données.
-* Effectuer des requêtes SQL pour répondre à une problématique métier.
-* Créer le schéma d'une base de données.
-* Charger des données dans une base de données.
+###  Scénario
+En tant que Data Analyse le but est d'asssister un réseau national d’agences immobilières a mieux suivre les performances et les contrats en cours au sein d'une vaste banque de données (Nombre de contrats premiums, surface moyenne des logements etc..)
 
-### &#128203; Scénario
-Nous sommes *Data Analyst* chez Laplace Immo, un réseau national d’agences immobilières. Le directeur général est sensible depuis quelque temps à l’importance des données, et il pense que l’agence doit se démarquer de la concurrence en créant un modèle pour mieux prévoir le prix de vente des biens immobiliers. 
+###  Objectifs
+* Avoir une vision claire sur l'ensemble des contrats
+* Mieux comprendre le type de logement mis en location et l'impact de ceux-ci avec les formules proposées
 
-### &#127919; Objectifs
-* Créer le dictionnaire des données et le schéma relationnel normalisé.
-* Modifier la base de données permettant de collecter les transactions immobilières et foncières en France, puis implémenter cette nouvelle base de données et enfin effectuer les requêtes SQL nécessaires aux analyses.
+
+## Projet 2 : Analyse des départs client pour Primero Bank
+
+
+###  Compétences acquises
+* Création de profil type.
+* Estimation des risques d'attrition .
+* Identification des habitudes des clients.
+* Recommandations de mise en place de services addtionels.
+
+### Scénario
+En tant que Data Analyst Junior chez ESN Data, j'ai étudié les départs de clients de Primero Bank afin de pouvoir dresser un profil type et proposer des axes d'amélioration pour une future campagnage marketing et/ou lancement de nouveaux produits
+###  Objectifs
+* Créer des visuels accessibles et utilisables pour une équipe marketing en respectant les règles de visibilité.
+* Comprendre les enjeux du client et les objectifs propres a chaque département.
 
