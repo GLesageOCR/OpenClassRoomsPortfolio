@@ -3,70 +3,52 @@ Portfolio créé dans le cadre de la formation Data Analyst OpenClassRooms
 
 Ce portfolio contient une partie des projets réalisés dans le cadre de la formation Data Analyst dispensé par OpenClassrooms.
 
-Liste des Outils et Compétences utilisés 
 
 
-Python
+## Projet 10 : Analysez une demande business et identifiez les segments du marché les plus pertinents pour votre client
 
-Power BI
+### Compétences acquises
+ * Analyser les données d'un segment clientèle ou produits pour accompagner les décideurs
+ * Analyser les évolutions du marché pour repérer des segments pertinents
+ * Cadrer les contours de la demande en BI en identifiant besoins, contraintes et exigences
+ * Participer à l'élaboration des recommandations business en prenant en compte les besoins
 
-Power Query
+### Scénario
+ La responsable de UOI Games souhaite lancer un nouveau jeu vidéo de type AAA, le budget est colossal et le marché complexe et souhaite avoir des recommandations sur les segments a cibler pour le lancement de ce dernier (âge, genre, plateforme, style, etc.).
+ 
+### Objectifs
 
-SQL
+ * Analyser tendances actuelles et émergentes du marché et les préférences des consommateurs (avec une matrice SWOT et un PESTEL), tester ces informations sur un panel de joueur, émettre des recommandations sur un segment défini et présenter un exemple de jeu vidéo a succès avec une estimation des ventes.
 
-Projet 
+## Projet 9 : Améliorez les performances de l'entreprise
 
+### Compétences acquises
+* Définir des règles et des processus d'extraction et de normalisation des données
+* Proposer des KPI pour le suivi de la performance de la stratégie de Business Intelligence
+* Proposer des solutions d'extraction, de traitement et de visualisation adaptées au besoin
 
+### Scénario
 
-
-## [Projet 10 : 
-
-### &#127891; Compétences acquises
-* Réaliser une régression linéaire.
-* Opérer des classifications automatiques pour partitionner les données.
-* Réaliser une analyse prédictive.
-* Réaliser une régression logistique.
-* Réaliser une classification kNN et k-means.
-* Réaliser un arbre de décision et une forêt aléatoire.
-* Utiliser des méthodes ensemblistes (*Bagging* et *Boosting*).
-* Optimiser un modèle avec `GridSearchCV`.
-* Valider un modèle avec la validation croisée.
-
-### &#128203; Scénario
+Le PDG de Bottleneck lance un projet de mise à disposition des données de l’entreprise suite à la mise à jour récente des données dans les différentes BDD. Il souhaite désormais mettre en place une solution de data visualisation et avoir des recommandations sur les outils a utiliser mais aussi une meilleur compréhension des performances de leurs produits et notamment sur une nouvelle gamme lancée récemment.
 
 
-### &#127919; Objectifs
+### Objectifs
+* Avoir des recommandations claires et applicables par Bottelneck ne requerant pas de compétences techniques post traitement et créer des tableaux de bord adaptés au PDG, Responsable finance, chef de produits et permettant une meilleur compréhesion du progrès de leur dernière gamme de produit.
+
+## Projet 8 : Réalisez une analyse de données en Python
+
+### Compétences acquises
+* Utiliser du langage de programmation Python.
+* Explorer une série temporelle avec plusieurs facteurs.
+* Effectuer une prédiction via une régression linéaire .
+* Effectuer un regroupement automatique non supervisé dit “clustering”.
+
+###  Scénario 
+ En tant que consultant Business Intelligence Analyst chez ESN Data, notre 'le client Les plus Beaux Logis de Paris' a besoin de prédictions via du machine learning pour orienter sa stratégie entre le segment particulier et le segment commercial, notamment via leur valorisation potentielle dans le futur.
 
 
-* Tester notre algorithme sur de nouvelles données.
-
-## [Projet 9 : Produisez une étude de marché avec Python](./Etude_de_marché/)
-
-### &#127891; Compétences acquises
-* Effectuer un clustering simple.
-* Explorer des données pour synthétiser des variables.
-
-### &#128203; Scénario
-
-
-### &#127919; Objectifs
-* Préparer, nettoyer et réaliser une analyse exploratoire dans un *notebook* **Juypter** :<br>
-Les données utilisées sont issues des [statistiques de la *Food and Agriculture Organization of the United Nations (FAO)*](https://www.fao.org/faostat/fr/#home). Elles nous permettront de définir les critères de l'analyse. Ces critères, seront appelés **indicateurs** dans la suite de l'étude.
-* Réaliser le *clustering* des pays grâce à la classification ascendante hiérarchique (CAH) et à la méthode des k-means puis réaliser une analyse en composantes principales (ACP) dans un second *notebook*.
-
-## [Projet 8 : 
-
-### &#127891; Compétences acquises
-* Synthétiser des résultats à destination d'un client.
-* Créer un tableau de bord répondant à des questions analytiques.
-* Analyser un besoin client pour formuler des questions analytiques.
-* Générer des graphiques adaptés aux types de données.
-
-### &#128203; Scénario
-
-
-### &#127919; Objectifs
-Créer un rapport **Power BI** d'au moins 3 pages. Les données sources ont été prétraitées à l'aide de **Power Query**. Il fallait également créer un *blueprint* synthétisant les fontionnalités du rapport ainsi qu'un *mock-up* reprenant le visuel des futures pages en basse définition.
+### Objectifs
+ *Analyser les données historiques du marché parisien, effectuer une  régression linéaire pour prédire la valoriasation du portefeuille de l'entreprise, classer ces données et vérifier la fiabilité du modèle.
 
 ## Projet 7 : Créez un tableau de bord dynamique avec PowerBI pour visualiser l'avancement de projets
 
