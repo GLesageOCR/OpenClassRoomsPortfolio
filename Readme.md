@@ -55,6 +55,13 @@ Ce portfolio contient une partie des projets réalisés dans le cadre de la form
 
 <img width="1589" height="910" alt="image" src="https://github.com/user-attachments/assets/cf20c1a6-07a5-42f3-9bc8-f8b3a538cc93" />
 
+### Vidéo de formation 
+
+https://www.loom.com/share/dec9d119eea6440b907d135bc840c7a0
+
+<img width="1399" height="761" alt="image" src="https://github.com/user-attachments/assets/703a8523-02aa-4583-b9a7-12db7ef583f7" />
+
+
 
 
 ## Projet 10 : Analysez une demande business et identifiez les segments du marché les plus pertinents pour votre client
