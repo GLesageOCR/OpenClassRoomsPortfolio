@@ -46,7 +46,14 @@ Ce portfolio contient une partie des projets réalisés dans le cadre de la form
 <img width="1713" height="969" alt="image" src="https://github.com/user-attachments/assets/444344ef-0e61-4f07-bc3a-00ceb8100030" />
 
 
+### Cahier des charges 
 
+<img width="1707" height="932" alt="image" src="https://github.com/user-attachments/assets/e0f82bb6-c09c-46bf-96f5-d6cbe5002af3" />
+
+
+### Analyse des besoins métiers 
+
+<img width="1589" height="910" alt="image" src="https://github.com/user-attachments/assets/cf20c1a6-07a5-42f3-9bc8-f8b3a538cc93" />
 
 
 
