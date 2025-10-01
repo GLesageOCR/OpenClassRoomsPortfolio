@@ -48,6 +48,8 @@ Ce portfolio contient une partie des projets réalisés dans le cadre de la form
 
 ### Cahier des charges 
 
+https://github.com/GLesageOCR/OpenClassRoomsPortfolio/raw/refs/heads/main/Cahierdescharges.pptx
+
 <img width="1707" height="932" alt="image" src="https://github.com/user-attachments/assets/e0f82bb6-c09c-46bf-96f5-d6cbe5002af3" />
 
 
