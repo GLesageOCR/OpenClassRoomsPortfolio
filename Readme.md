@@ -27,6 +27,8 @@ Ce portfolio contient une partie des projets réalisés dans le cadre de la form
 
 ### Tableau de bord de Suivi de Projet (Diagramme de Gantt)
 
+https://github.com/GLesageOCR/OpenClassRoomsPortfolio/raw/refs/heads/main/Gantt+Tableauxdebord.pbix
+
 <img width="1644" height="673" alt="image" src="https://github.com/user-attachments/assets/f5c6d983-d027-4aed-8901-3d1717b0b0b6" />
 
 
@@ -35,6 +37,8 @@ Ce portfolio contient une partie des projets réalisés dans le cadre de la form
 
 ### Tableau de bord de Profil 
 
+https://github.com/GLesageOCR/OpenClassRoomsPortfolio/raw/refs/heads/main/Gantt+Tableauxdebord.pbix
+
 <img width="1730" height="970" alt="image" src="https://github.com/user-attachments/assets/63695f09-8465-4ff3-a6a0-79f438bf9863" />
 
 
@@ -42,6 +46,8 @@ Ce portfolio contient une partie des projets réalisés dans le cadre de la form
 
 
 ### Tableau de bord de Veille 
+
+https://github.com/GLesageOCR/OpenClassRoomsPortfolio/raw/refs/heads/main/Gantt+Tableauxdebord.pbix
 
 <img width="1713" height="969" alt="image" src="https://github.com/user-attachments/assets/444344ef-0e61-4f07-bc3a-00ceb8100030" />
 
