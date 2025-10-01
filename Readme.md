@@ -65,6 +65,9 @@ Ce portfolio contient une partie des projets réalisés dans le cadre de la form
 
  * Analyser tendances actuelles et émergentes du marché et les préférences des consommateurs (avec une matrice SWOT et un PESTEL), tester ces informations sur un panel de joueur, émettre des recommandations sur un segment défini et présenter un exemple de jeu vidéo a succès avec une estimation des ventes.
 
+<img width="901" height="504" alt="image" src="https://github.com/user-attachments/assets/be163c8d-3124-4456-bd39-69cf8812e553" />
+
+
 ## Projet 9 : Améliorez les performances de l'entreprise
 
 ### Compétences acquises
@@ -79,6 +82,9 @@ Le PDG de Bottleneck lance un projet de mise à disposition des données de l’
 
 ### Objectifs
 * Avoir des recommandations claires et applicables par Bottelneck ne requerant pas de compétences techniques post traitement et créer des tableaux de bord adaptés au PDG, Responsable finance, chef de produits et permettant une meilleur compréhesion du progrès de leur dernière gamme de produit.
+
+<img width="1913" height="1069" alt="image" src="https://github.com/user-attachments/assets/83204bb7-b0ce-4f66-bb88-b2d631e73492" />
+
 
 ## Projet 8 : Réalisez une analyse de données en Python
 
@@ -95,6 +101,9 @@ Le PDG de Bottleneck lance un projet de mise à disposition des données de l’
 ### Objectifs
  *Analyser les données historiques du marché parisien, effectuer une  régression linéaire pour prédire la valoriasation du portefeuille de l'entreprise, classer ces données et vérifier la fiabilité du modèle.
 
+ <img width="1855" height="908" alt="image" src="https://github.com/user-attachments/assets/313688aa-d33a-438e-be03-d66eaf7175f6" />
+
+
 ## Projet 7 : Créez un tableau de bord dynamique avec PowerBI pour visualiser l'avancement de projets
 
 ### Compétences acquises
@@ -107,7 +116,12 @@ Le PDG de Bottleneck lance un projet de mise à disposition des données de l’
 
 ### Objectifs
 
-* Créer un tableau de bord accessible a différents niveaux de résponsabilités dans l'entreprise (global, régional, local) , dynamique et permettant une identification rapide des projets ou zones a risques sur des critères de type délai et coût notamment. 
+* Créer un tableau de bord accessible a différents niveaux de résponsabilités dans l'entreprise (global, régional, local) , dynamique et permettant une identification rapide des projets ou zones a risques sur des critères de type délai et coût notamment.
+
+
+<img width="1909" height="1075" alt="image" src="https://github.com/user-attachments/assets/76b7cc75-d9d2-4cf6-b536-f9010041a16c" />
+
+
 
 ## Projet 6 : Optimisez la gestion & nettoyez les données du stock d'une boutique
 
@@ -125,6 +139,9 @@ En tant qu’analyste chez BottleNeck, un marchand de vin prestigieux qui a du m
 
 Consolider les données et les rendre accessibles tout en corrigeant les erreurs puis les présenter dans un format adapté a des responsables produits et stocks pour dynamiser les ventes et améliorer la gestion du stock au quotidien.
 
+<img width="952" height="533" alt="image" src="https://github.com/user-attachments/assets/066a7cf1-67f3-4eaf-8bfe-4c7083cb8aa1" />
+
+
 ## Projet 5 : Manipulez une base de données avec SQL pour suivre la satisfaction client
 
 ### Compétences acquises
@@ -132,7 +149,7 @@ Consolider les données et les rendre accessibles tout en corrigeant les erreurs
 * Charger des données sur base de données
 * Rédiger un rapport sur la protection des données
 * Vérifier la cohérience de données
-  
+
 
 ### Scénario
 Dans le cadre de ce projet, je suis intervenu chez Best Market, un magasin de spécialisé dans la grande distribution dont les responsables souhaitaient revoir l'ensemble de leur base de données et avoir des recommandations sur les produits mis en vente.
@@ -141,6 +158,9 @@ Dans le cadre de ce projet, je suis intervenu chez Best Market, un magasin de sp
  * Comprendre les points de satisfaction ou d’insatisfaction
  * Repérer les produits ou services problématiques
  * Suivre l’évolution de la perception client dans le temps
+
+<img width="945" height="535" alt="image" src="https://github.com/user-attachments/assets/7d20a35e-06e5-4af1-af22-29feb9e182d1" />
+
 
 ## Projet 4 : Collectez des données en respectant les normes RGPD
 
@@ -156,6 +176,9 @@ Un courtier en assurance, suite une intervention de la CNIL se retrouve impacté
  * Émettre des recommandations sur les règles de gestion à mettre en place immédiatement sur les données du CRM pour être conforme au RGPD
  *  Mettre à disposition de l’équipe de performance commerciale une extraction des données du CRM anonymisé
  *  Documenter dans un rapport toutes les étapes d'anonymisation
+
+
+<img width="1595" height="646" alt="image" src="https://github.com/user-attachments/assets/9892d86c-dd69-4d46-b026-ab2cb808d310" />
 
 
 ## Projet 3 : Requêtez une base de données avec SQL
@@ -175,6 +198,8 @@ En tant que Data Analyse le but est d'asssister un réseau national d’agences 
 * Avoir une vision claire sur l'ensemble des contrats
 * Mieux comprendre le type de logement mis en location et l'impact de ceux-ci avec les formules proposées
 
+<img width="1254" height="700" alt="image" src="https://github.com/user-attachments/assets/1fe093f6-5eef-4844-8347-2f405e09bafb" />
+
 
 ## Projet 2 : Analyse des départs client pour Primero Bank
 
@@ -190,4 +215,7 @@ En tant que Data Analyst Junior chez ESN Data, j'ai étudié les départs de cli
 ###  Objectifs
 * Créer des visuels accessibles et utilisables pour une équipe marketing en respectant les règles de visibilité.
 * Comprendre les enjeux du client et les objectifs propres a chaque département.
+
+<img width="1742" height="979" alt="image" src="https://github.com/user-attachments/assets/d8d15eed-573e-412c-87e4-81d8da98479d" />
+
 
