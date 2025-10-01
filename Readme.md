@@ -23,6 +23,10 @@ Ce portfolio contient une partie des projets réalisés dans le cadre de la form
 
  * Réaliser un portfolio contenant un résumé des projets effectué, un cahier des charges métier, 2 tableaux de bord sur la veille métier et mon profil ainsi qu'un vidéo de formation et sa documentation.
 
+
+
+* Tableau de 
+
 <img width="1644" height="673" alt="image" src="https://github.com/user-attachments/assets/f5c6d983-d027-4aed-8901-3d1717b0b0b6" />
 
 
