@@ -218,4 +218,3 @@ En tant que Data Analyst Junior chez ESN Data, j'ai étudié les départs de cli
 
 <img width="1742" height="979" alt="image" src="https://github.com/user-attachments/assets/d8d15eed-573e-412c-87e4-81d8da98479d" />
 
-
