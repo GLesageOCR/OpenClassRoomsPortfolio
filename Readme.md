@@ -55,6 +55,8 @@ https://github.com/GLesageOCR/OpenClassRoomsPortfolio/raw/refs/heads/main/Cahier
 
 ### Analyse des besoins métiers 
 
+https://github.com/GLesageOCR/OpenClassRoomsPortfolio/blob/main/Analyse_des_besoins_me%CC%81tiers.pdf
+
 <img width="1589" height="910" alt="image" src="https://github.com/user-attachments/assets/cf20c1a6-07a5-42f3-9bc8-f8b3a538cc93" />
 
 ### Vidéo de formation 
