@@ -30,9 +30,15 @@ Ce portfolio contient une partie des projets réalisés dans le cadre de la form
 <img width="1644" height="673" alt="image" src="https://github.com/user-attachments/assets/f5c6d983-d027-4aed-8901-3d1717b0b0b6" />
 
 
+
+
+
 ### Tableau de bord de Profil 
 
 <img width="1730" height="970" alt="image" src="https://github.com/user-attachments/assets/63695f09-8465-4ff3-a6a0-79f438bf9863" />
+
+
+
 
 
 ### Tableau de bord de Veille 
