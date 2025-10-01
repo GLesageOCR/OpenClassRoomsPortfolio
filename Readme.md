@@ -3,6 +3,27 @@ Portfolio créé dans le cadre de la formation Data Analyst OpenClassRooms
 
 Ce portfolio contient une partie des projets réalisés dans le cadre de la formation Data Analyst dispensé par OpenClassrooms.
 
+## Projet 11 : Créez votre portfolio de professionnel de la data
+
+### Compétences acquises
+ * Accompagner les équipes sur la prise en main des outils
+ * Adapter sa posture de professionnel en se positionnant comme consultant
+ * Effectuer une veille métier et technologique
+ * Expérimenter de nouvelles méthodes d'analyse de données à travers des recherches
+ * Formaliser les procédures de documentation pour assurer une gestion fiable
+ * Formaliser un cahier des charges fonctionnel pour cadrer les besoins et les solutions
+ * Identifier les besoins métier en intégrant les différentes contraintes
+ * Organiser un projet d'analyse data grâce à des outils de gestion de projet
+
+### Scénario
+ Dans le cadre d'un recrutement en tant d'un "Data Analyst chef de projet expérimenté et polyvalent, intéressé par une évolution possible vers le management" chez Aeroworld, je dois montrer a travers mon portfolio que je serais un candidat intéressant pour ce poste. 
+
+ 
+### Objectifs
+
+ * Réaliser un portfolio contenant un résumé des projets effectué, un cahier des charges métier, 2 tableaux de bord sur la veille métier et mon profil ainsi qu'un vidéo de formation et sa documentation.
+
+
 
 
 ## Projet 10 : Analysez une demande business et identifiez les segments du marché les plus pertinents pour votre client
