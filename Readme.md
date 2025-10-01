@@ -57,7 +57,7 @@ Ce portfolio contient une partie des projets réalisés dans le cadre de la form
 
 ### Vidéo de formation 
 
-https://www.loom.com/share/dec9d119eea6440b907d135bc840c7a0
+https://www.loom.com/share/48f806bb63b543db8ef46de57e440261?sid=f6bc3278-c9b6-4534-8d96-7706323c8b02
 
 <img width="1399" height="761" alt="image" src="https://github.com/user-attachments/assets/703a8523-02aa-4583-b9a7-12db7ef583f7" />
 
