@@ -27,7 +27,7 @@ Ce portfolio contient une partie des projets réalisés dans le cadre de la form
 
 https://lucid.app/lucidspark/9c9fee18-66e8-428b-8fbd-059256464665/edit?view_items=msMBEKM8jWE2QeTeNFMQAMbLMus%3D&invitationId=inv_62fc6ecf-51f8-4527-a9df-e593cfbe593a
 
-
+https://github.com/GLesageOCR/OpenClassRoomsPortfolio/blob/main/CarteMentale.jpg
 
 ### Tableau de bord de Suivi de Projet (Diagramme de Gantt)
 
