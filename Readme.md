@@ -54,7 +54,8 @@ https://github.com/GLesageOCR/OpenClassRoomsPortfolio/raw/refs/heads/main/Gantt+
 
 https://github.com/GLesageOCR/OpenClassRoomsPortfolio/raw/refs/heads/main/Gantt+Tableauxdebord.pbix
 
-<img width="1713" height="969" alt="image" src="https://github.com/user-attachments/assets/444344ef-0e61-4f07-bc3a-00ceb8100030" />
+<img width="1897" height="1066" alt="image" src="https://github.com/user-attachments/assets/505872ee-efee-43ab-8202-c1e915ea84bf" />
+
 
 
 ### Cahier des charges 
