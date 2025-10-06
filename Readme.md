@@ -54,7 +54,8 @@ https://github.com/GLesageOCR/OpenClassRoomsPortfolio/raw/refs/heads/main/Gantt+
 
 https://github.com/GLesageOCR/OpenClassRoomsPortfolio/raw/refs/heads/main/Gantt+Tableauxdebord.pbix
 
-<img width="1899" height="1066" alt="image" src="https://github.com/user-attachments/assets/e9f52eaf-9fc6-4eec-a743-c1bbb6fd8a7d" />
+<img width="1893" height="1062" alt="image" src="https://github.com/user-attachments/assets/75b9a60d-19b4-494b-8936-a8811650309e" />
+
 
 
 
